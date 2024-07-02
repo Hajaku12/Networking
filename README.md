@@ -15,6 +15,7 @@ This exercise illustrates how to retrieve and display the contents from a specif
 
 **Verification:**
 
+![Picture1](https://github.com/Hajaku12/Networking/assets/62758651/fdd37893-5ff1-4858-a36b-4d1c81c846ca)
 
 ---
 
@@ -28,6 +29,9 @@ This exercise demonstrates how to retrieve and display the contents from a speci
 2. The file called "resultados.html" will be generated with the URL given.
 
 **Verification:**
+![Picture2](https://github.com/Hajaku12/Networking/assets/62758651/4903b512-a31c-40b6-a0c8-942fbe2e6544)
+
+![Picture3](https://github.com/Hajaku12/Networking/assets/62758651/2eb88c34-cb05-4ebb-bd34-4558986b264e)
 
 ---
 
@@ -43,6 +47,7 @@ This exercise highlights client-server communication where the client sends a nu
 
 **Verification:**
 
+![Picture4](https://github.com/Hajaku12/Networking/assets/62758651/82625368-2f9d-43f7-be18-a8c8f82dc48e)
 
 ---
 
@@ -58,6 +63,7 @@ This exercise extends client-server communication to handle mathematical express
 
 **Verification:**
 
+![Picture5](https://github.com/Hajaku12/Networking/assets/62758651/9167ea5f-f1b6-45b6-9676-aec30689e6cb)
 
 ---
 
